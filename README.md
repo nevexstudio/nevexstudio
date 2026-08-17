@@ -118,10 +118,6 @@ Atuação no desenvolvimento de sistemas internos, automações e soluções Ful
 
 </p>
 
-<p align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=nevexstudio&theme=tokyonight&hide_border=true" /> </p>
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nevexstudio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" /> </p>
-
 ---
 
 ## 🚀 Filosofia
