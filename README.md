@@ -1,10 +1,10 @@
 # Olá 👋, eu sou o Cauã Ribeiro
 
-🚀 **Auxiliar de TI | Automação de Processos | Design Gráfico**
+🚀 **Auxiliar de TI | Desenvolvedor em formação | Automação de Processos (RPA)**
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (cursando) — Anhanguera
 🇧🇷 Diadema, SP - Brasil
 
-Atuo no suporte técnico e infraestrutura de TI, com experiência prática em **automação de rotinas administrativas** usando JavaScript e o sistema Protheus (TOTVS). Também sou fundador de um estúdio de design gráfico, unindo **tecnologia, dados e criatividade** para gerar resultados reais.
+Atuo no suporte técnico e infraestrutura de TI, com experiência prática em **automação de rotinas administrativas** usando JavaScript e o sistema Protheus (TOTVS). Estou expandindo minha atuação para desenvolvimento web e RPA, estudando **React, Docker, Linux, Nginx e PostgreSQL** para construir soluções mais robustas e escaláveis.
 
 ---
 
@@ -30,31 +30,39 @@ Atuo no suporte técnico e infraestrutura de TI, com experiência prática em **
 ## 🧠 O que eu faço
 
 - 🖥️ Suporte técnico e infraestrutura de TI (hardware, software, redes)
-- 🤖 Automação de processos internos e rotinas administrativas
-- 📊 Análise de dados e planilhas dinâmicas
+- 🤖 Automação de processos (RPA) e rotinas administrativas
 - 🧾 Automação de sistemas ERP (Protheus / TOTVS)
-- 🎨 Design gráfico, branding e identidade visual esportiva
+- 💻 Desenvolvimento web com React
+- 🐳 Containerização de aplicações com Docker
+- 🐧 Administração de sistemas Linux e servidores Nginx
+- 🗄️ Modelagem e consultas em PostgreSQL
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
 ---
 
 ## 🛠️ Stack e Ferramentas
 
-### Desenvolvimento & Automação
+### Frontend & Desenvolvimento
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### Backend & Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![TOTVS Protheus](https://img.shields.io/badge/Protheus-TOTVS-003DA5?style=for-the-badge)
 
-### Design
+### Infraestrutura & DevOps
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-
-### TI & Suporte
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+### RPA & Automação
+
+![RPA](https://img.shields.io/badge/RPA-Automação%20de%20Processos-FF6F00?style=for-the-badge&logo=roboticprocessautomation)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -63,19 +71,14 @@ Atuo no suporte técnico e infraestrutura de TI, com experiência prática em **
 **Auxiliar de TI** — Assa Abloy Brasil Indústria e Comércio LTDA. — *2026 - Atual*
 Suporte técnico a usuários, instalação e manutenção de equipamentos, gerenciamento de acessos e suporte à infraestrutura de rede.
 
-**Fundador e Designer Gráfico** — NeveX Studio — *2021 - Atual*
-Criação de identidades visuais, artes esportivas e materiais digitais, unindo estética e estratégia de comunicação.
-
 **Assistente Administrativo** — SP Equipamentos de Proteção ao Trabalho e MRO LTDA. — *2024 - 2026*
-Mapeamento e otimização de processos, automação de rotinas no Protheus (TOTVS) e desenvolvimento de soluções com JavaScript.
+Mapeamento e otimização de processos, automação de rotinas (RPA) no Protheus (TOTVS) e desenvolvimento de soluções com JavaScript.
 
 ---
 
 ## 📈 Resultados
 
-- 🎨 **+500** identidades visuais criadas para marcas e atletas
-- 👀 **+120 mil** visualizações em campanhas digitais esportivas
-- ⏱️ **480h/ano** liberadas da equipe administrativa através de automação
+- ⏱️ **480h/ano** liberadas da equipe administrativa através de automação (RPA)
 - 📉 **40%** de redução no tempo médio de registro de produtos com automação em JavaScript
 - ✅ **100%** de rastreabilidade de equipamentos registrados
 
@@ -92,9 +95,9 @@ Mapeamento e otimização de processos, automação de rotinas no Protheus (TOTV
 
 ## 🚀 Filosofia
 
-> _"Tecnologia e criatividade caminham juntas: automatizar processos e criar boas experiências visuais são formas diferentes de resolver o mesmo problema — gerar valor real."_
+> _"Automatizar o que é repetitivo para focar no que gera valor real — essa é a lógica por trás de todo código que escrevo."_
 
 ---
 
 ⭐ Se você gosta do meu trabalho, deixe uma estrela em algum repositório
-🤝 Aberto a colaborações, parcerias e novas oportunidades na área de TI
+🤝 Aberto a colaborações, parcerias e novas oportunidades como desenvolvedor
