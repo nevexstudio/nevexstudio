@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o Cauã Ribeiro
+# Opa 👋, eu sou o Cauã Ribeiro
 
 🚀 **Desenvolvedor Full Stack em formação | Automação de Processos (RPA)**
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Anhanguera
@@ -53,6 +53,7 @@ Atualmente, foco minha evolução profissional em desenvolvimento Full Stack, ar
 
 ### Backend & Dados
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![TOTVS Protheus](https://img.shields.io/badge/Protheus-TOTVS-003DA5?style=for-the-badge)
 
