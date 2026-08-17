@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o Cauã Ribeiro
+# OPA 👋, eu sou o Cauã Ribeiro
 
 🚀 **Desenvolvedor Full Stack em formação | Automação de Processos (RPA)**
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Anhanguera
