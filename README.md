@@ -1,10 +1,11 @@
 # Olá 👋, eu sou o Cauã Ribeiro
 
-🚀 **Auxiliar de TI | Desenvolvedor em formação | Automação de Processos (RPA)**
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (cursando) — Anhanguera
-🇧🇷 Diadema, SP - Brasil
+🚀 **Desenvolvedor Full Stack em formação | Automação de Processos (RPA)**
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Anhanguera
 
-Atuo no suporte técnico e infraestrutura de TI, com experiência prática em **automação de rotinas administrativas** usando JavaScript e o sistema Protheus (TOTVS). Estou expandindo minha atuação para desenvolvimento web e RPA, estudando **React, Docker, Linux, Nginx e PostgreSQL** para construir soluções mais robustas e escaláveis.
+Atuo no desenvolvimento de soluções web e automações de processos, com experiência prática na criação de sistemas, integrações e ferramentas para otimização de rotinas empresariais. Trabalho com JavaScript, React, Node.js, PostgreSQL e APIs, além de utilizar Docker e Linux para estruturar e executar aplicações.
+Tenho experiência no desenvolvimento de sistemas internos, automações RPA e integrações com o ERP Protheus (TOTVS), buscando transformar processos manuais em soluções mais rápidas, organizadas e escaláveis.
+Atualmente, foco minha evolução profissional em desenvolvimento Full Stack, arquitetura de aplicações, automação de processos e construção de soluções que gerem impacto real para o negócio.
 
 ---
 
@@ -29,14 +30,17 @@ Atuo no suporte técnico e infraestrutura de TI, com experiência prática em **
 
 ## 🧠 O que eu faço
 
-- 🖥️ Suporte técnico e infraestrutura de TI (hardware, software, redes)
-- 🤖 Automação de processos (RPA) e rotinas administrativas
-- 🧾 Automação de sistemas ERP (Protheus / TOTVS)
-- 💻 Desenvolvimento web com React
-- 🐳 Containerização de aplicações com Docker
-- 🐧 Administração de sistemas Linux e servidores Nginx
-- 🗄️ Modelagem e consultas em PostgreSQL
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Desenvolvimento de aplicações web Full Stack
+- ⚛️ Desenvolvimento de interfaces modernas com React
+- ➰ Desenvolvimento de aplicações e APIs com JavaScript e Node.js
+- 🤖 Automação de processos e rotinas empresariais (RPA)
+- 🧾 Desenvolvimento de automações e integrações com ERP Protheus (TOTVS)
+- 🖼️ Modelagem, consultas e gerenciamento de dados com PostgreSQL
+- 🔗 Desenvolvimento e integração de APIs REST
+- 🐳 Containerização e execução de aplicações com Docker
+- 🧩 Desenvolvimento de sistemas internos e soluções sob medida
+- ⚙️ Otimização e digitalização de processos manuais
+- 📚 Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 ---
 
@@ -78,9 +82,12 @@ Mapeamento e otimização de processos, automação de rotinas (RPA) no Protheus
 
 ## 📈 Resultados
 
-- ⏱️ **480h/ano** liberadas da equipe administrativa através de automação (RPA)
-- 📉 **40%** de redução no tempo médio de registro de produtos com automação em JavaScript
-- ✅ **100%** de rastreabilidade de equipamentos registrados
+- ⚡ 480h/ano economizadas com desenvolvimento de automações para eliminação de tarefas manuais e repetitivas
+- 📉 40% de redução no tempo médio de processamento e registro de produtos através de automações desenvolvidas em JavaScript
+- 🤖 Automação de processos ponta a ponta, reduzindo intervenção manual e aumentando a eficiência operacional
+- 🔗 Integração e automação de rotinas no Protheus (TOTVS), transformando processos administrativos em fluxos automatizados
+- 🚀 Desenvolvimento de sistemas internos para centralizar informações, automatizar processos e melhorar a tomada de decisão
+- 📊 Otimização de processos baseada em dados, reduzindo retrabalho e aumentando a confiabilidade das operações
 
 ---
 
