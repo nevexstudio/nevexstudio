@@ -1,4 +1,4 @@
-# Opa 👋, eu sou o Cauã Ribeiro
+# Olá 👋, eu sou o Cauã Ribeiro
 
 🚀 **Desenvolvedor Full Stack em formação | Automação de Processos (RPA)**
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Anhanguera
@@ -73,11 +73,29 @@ Atualmente, foco minha evolução profissional em desenvolvimento Full Stack, ar
 
 ## 💼 Experiência
 
-**Auxiliar de TI** — Assa Abloy Brasil Indústria e Comércio LTDA. — *2026 - Atual*
-Suporte técnico a usuários, instalação e manutenção de equipamentos, gerenciamento de acessos e suporte à infraestrutura de rede.
+💼 Experiência
 
-**Assistente Administrativo** — SP Equipamentos de Proteção ao Trabalho e MRO LTDA. — *2024 - 2026*
-Mapeamento e otimização de processos, automação de rotinas (RPA) no Protheus (TOTVS) e desenvolvimento de soluções com JavaScript.
+**Auxiliar de TI** — Assa Abloy Brasil Indústria e Comércio LTDA. — 2026 - Atual
+
+Atuação em tecnologia com foco no desenvolvimento e evolução de soluções internas para controle e gestão de recursos de TI.
+
+💻 Desenvolvimento de sistema para controle geral de estoque de equipamentos de TI
+📦 Desenvolvimento de soluções para controle, movimentação e rastreabilidade de ativos
+⚙️ Automatização de processos internos e digitalização de rotinas operacionais
+🗄️ Estruturação e gerenciamento de dados relacionados aos processos de TI
+🚀 Desenvolvimento de soluções web para centralização de informações e melhoria dos fluxos internos
+
+**Assistente Administrativo** — SP Equipamentos de Proteção ao Trabalho e MRO LTDA. — 2024 - 2026
+
+Atuação no desenvolvimento de sistemas internos, automações e soluções Full Stack para digitalização e otimização de processos da empresa.
+
+💻 Comercial BEPI — desenvolvimento de sistema web para gestão comercial, produtos, propostas, usuários, indicadores e processos de vendas
+📦 Sistema de Cadastro de Produtos — desenvolvimento de solução para automatização e otimização do cadastro e processamento de produtos
+🧪 Sistema de Controle de Amostras — desenvolvimento de sistema para controle de estoque, retirada, apresentação, devolução e histórico de amostras
+🤖 Desenvolvimento de automações RPA e integrações com o Protheus (TOTVS)
+🔗 Desenvolvimento de integrações e APIs para comunicação entre sistemas e processos internos
+⚡ Aplicação de JavaScript, React, Node.js, APIs e bancos de dados na construção das soluções
+📊 Mapeamento e otimização de processos, transformando rotinas manuais em fluxos digitais e automatizados
 
 ---
 
