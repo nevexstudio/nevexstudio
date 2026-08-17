@@ -79,7 +79,7 @@ Atualmente, foco minha evolução profissional em desenvolvimento Full Stack, ar
 
 Atuação em tecnologia com foco no desenvolvimento e evolução de soluções internas para controle e gestão de recursos de TI.
 
-💻 Desenvolvimento de sistema para controle geral de estoque de equipamentos de TI
+**💻 Desenvolvimento de sistema para controle geral de estoque de equipamentos de TI**
 📦 Desenvolvimento de soluções para controle, movimentação e rastreabilidade de ativos
 ⚙️ Automatização de processos internos e digitalização de rotinas operacionais
 🗄️ Estruturação e gerenciamento de dados relacionados aos processos de TI
@@ -89,9 +89,9 @@ Atuação em tecnologia com foco no desenvolvimento e evolução de soluções i
 
 Atuação no desenvolvimento de sistemas internos, automações e soluções Full Stack para digitalização e otimização de processos da empresa.
 
-💻 Comercial BEPI — desenvolvimento de sistema web para gestão comercial, produtos, propostas, usuários, indicadores e processos de vendas
-📦 Sistema de Cadastro de Produtos — desenvolvimento de solução para automatização e otimização do cadastro e processamento de produtos
-🧪 Sistema de Controle de Amostras — desenvolvimento de sistema para controle de estoque, retirada, apresentação, devolução e histórico de amostras
+**💻 Comercial BEPI** — desenvolvimento de sistema web para gestão comercial, produtos, propostas, usuários, indicadores e processos de vendas
+**📦 Sistema de Cadastro de Produtos** — desenvolvimento de solução para automatização e otimização do cadastro e processamento de produtos
+**🧪 Sistema de Controle de Amostras** — desenvolvimento de sistema para controle de estoque, retirada, apresentação, devolução e histórico de amostras
 🤖 Desenvolvimento de automações RPA e integrações com o Protheus (TOTVS)
 🔗 Desenvolvimento de integrações e APIs para comunicação entre sistemas e processos internos
 ⚡ Aplicação de JavaScript, React, Node.js, APIs e bancos de dados na construção das soluções
