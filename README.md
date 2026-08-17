@@ -110,12 +110,17 @@ Atuação no desenvolvimento de sistemas internos, automações e soluções Ful
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Activity
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nevexstudio&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevexstudio&layout=compact&theme=tokyonight" />
+<p align="center"> <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=nevexstudio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nevexstudio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </p>
+
+<p align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=nevexstudio&theme=tokyonight&hide_border=true" /> </p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nevexstudio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" /> </p>
 
 ---
 
